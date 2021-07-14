@@ -2,7 +2,7 @@
     "name": "psg/sr2-implementation",
     "description": "App Standardization Prototype",
     "keywords": ["sr-2", "http", "http-message", "request", "response", "factory"],
-    "homepage": "https://github.com/php-sg/psr-100",
+    "homepage": "https://github.com/php-sg/sr-2-implementation",
     "license": "MIT",
     "authors": [
         {
