@@ -1,5 +1,9 @@
 # PSG SR 2 Implementation
 
+```sh
+composer require psg/sr2-implementation
+```
+
 The intent of this implementation is to give a well documented prototype of how LayeredApp can be implemented.  The complexity
 of integrating normal middleware with frontware and backware has, to my knowledge, prevented this from ever being done.
 
