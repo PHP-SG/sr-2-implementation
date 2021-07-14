@@ -1,0 +1,23 @@
+{
+    "name": "psg/sr2-implementation",
+    "description": "App Standardization Prototype",
+    "keywords": ["sr-2", "http", "http-message", "request", "response", "factory"],
+    "homepage": "https://github.com/php-sg/psr-100",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PHP-SG",
+            "homepage": "http://php-sg.org/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "psg/sr1": "^0.1.0",
+        "psg/sr2": "^0.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Psg\\Sr2\\Implementation\\": "src/"
+        }
+    }
+}
